@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<asset assetType="fontStyle" color="#DA8F66FF" fontName="GrilledCheese BTN" fontName..editor..ref="assetType@FontFile; raw@true" letterSpacing="-3.0" size="60.0">
+	<!--vso: 3-->
+	<effects effectString="{&quot;blurX&quot;:1,&quot;blurY&quot;:1,&quot;offset&quot;:2,&quot;angle&quot;:90.0,&quot;strength&quot;:1.0,&quot;inner&quot;:true,&quot;color&quot;:4285758142,&quot;alpha&quot;:1.0,&quot;type&quot;:&quot;shadow&quot;}" inspectorEffectString..editor="{&quot;blurX&quot;:1,&quot;blurY&quot;:1,&quot;offset&quot;:2,&quot;angle&quot;:90.0,&quot;strength&quot;:1.0,&quot;inner&quot;:true,&quot;color&quot;:4285758142,&quot;alpha&quot;:1.0,&quot;type&quot;:&quot;shadow&quot;}" />
+	<effects effectString="{&quot;blurX&quot;:0,&quot;blurY&quot;:0,&quot;offset&quot;:2,&quot;angle&quot;:90.0,&quot;strength&quot;:1.0,&quot;inner&quot;:false,&quot;color&quot;:2162818815,&quot;alpha&quot;:0.501961,&quot;type&quot;:&quot;shadow&quot;}" inspectorEffectString..editor="{&quot;blurX&quot;:0,&quot;blurY&quot;:0,&quot;offset&quot;:2,&quot;angle&quot;:90.0,&quot;strength&quot;:1.0,&quot;inner&quot;:false,&quot;color&quot;:2162818815,&quot;alpha&quot;:0.501961,&quot;type&quot;:&quot;shadow&quot;}" />
+</asset>

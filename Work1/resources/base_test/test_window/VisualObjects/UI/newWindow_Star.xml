@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<asset assetType="sceneObject" changesEnabled="Enabled">
+	<!--fixes: 3-->
+	<!--physics: 1-->
+	<!--vso: 40-->
+	<root name="Star">
+		<behaviours type="anchoredElement">
+			<ptr autoAttachToParent="true">
+				<horizontalAnchor nrp_2="1.0" />
+				<normalizedPivot x="0.5" y="0.5" />
+				<uid entityId="1345090076" />
+				<verticalAnchor nrp_2="1.0" />
+			</ptr>
+		</behaviours>
+		<children name="StarGrey">
+			<behaviours type="anchoredElement">
+				<ptr autoAttachToParent="true">
+					<anchorTarget path="1345090076" />
+					<horizontalAnchor nrp_2="1.0" />
+					<normalizedPivot x="0.5" y="0.5" />
+					<uid entityId="3259031573" />
+					<verticalAnchor nrp_2="1.0" />
+				</ptr>
+			</behaviours>
+			<component type="image">
+				<ptr>
+					<spriteOrTexture id="newWindow_StarGray" id..editor..ref="assetType@SpriteOrTexture; raw@true" />
+					<uid entityId="1725568185" />
+				</ptr>
+			</component>
+			<transform />
+			<uid entityId="2934635341" />
+		</children>
+		<children name="StarGold">
+			<behaviours type="anchoredElement">
+				<ptr>
+					<anchorTarget path="1345090076" />
+					<horizontalAnchor nrp_2="1.0" />
+					<normalizedPivot x="0.5" y="0.5" />
+					<uid entityId="876432776" />
+					<verticalAnchor nrp_2="1.0" />
+				</ptr>
+			</behaviours>
+			<component type="image">
+				<ptr>
+					<spriteOrTexture id="newWindow_StarGolden" id..editor..ref="assetType@SpriteOrTexture; raw@true" />
+					<uid entityId="27169489" />
+				</ptr>
+			</component>
+			<transform />
+			<uid entityId="2698596703" />
+		</children>
+		<transform />
+		<uid entityId="1576730662" />
+	</root>
+</asset>

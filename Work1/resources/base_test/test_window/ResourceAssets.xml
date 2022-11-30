@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<assets>
+	<asset assetId="4Zs07phXSkOC" assetType="textureAsset" path="sample_assets/Textures/UI_Sample_Title.png">
+		<!--vso: 2-->
+		<group value="test_window" />
+		<id value="UI_Sample_Title" />
+		<textureSettings>
+			<textureType local="true" value="Texture2D" />
+		</textureSettings>
+	</asset>
+	<asset assetId="4Zs1yBcNkvzJ" assetType="textureAsset" path="sample_assets/Textures/UI_Sample_CloseButton.png">
+		<!--vso: 2-->
+		<group value="test_window" />
+		<id value="UI_Sample_CloseButton" />
+	</asset>
+	<asset assetId="4Zs2bgmw80eA" assetType="textureAsset" path="sample_assets/Textures/UI_Sample_GreenButton.png">
+		<!--vso: 2-->
+		<group value="test_window" />
+		<id value="UI_Sample_GreenButton" />
+		<textureSettings>
+			<textureType local="true" value="Texture2D" />
+		</textureSettings>
+	</asset>
+	<asset assetId="5Zs3cZ8fYjz8" assetType="textureAsset" path="sample_assets/Textures/UI_Sample_ItemPanel.png">
+		<!--vso: 2-->
+		<group value="test_window" />
+		<id value="UI_Sample_ItemPanel" />
+	</asset>
+	<asset assetId="5Zs4UgJNFEnR" assetType="textureAsset" path="sample_assets/Textures/UI_Sample_Panel.png">
+		<!--vso: 2-->
+		<group value="test_window" />
+		<id value="UI_Sample_Panel" />
+		<textureSettings>
+			<textureType local="true" value="Texture2D" />
+		</textureSettings>
+	</asset>
+</assets>

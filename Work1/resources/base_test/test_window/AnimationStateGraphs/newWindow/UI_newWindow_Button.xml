@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<asset assetType="stateGraph" defaultState="Idol">
+	<!--fixes: 3-->
+	<!--vso: 3-->
+	<states type="state">
+		<ptr looped="true" name="Idol">
+			<controllers type="objectAnimationController">
+				<ptr animationId="newWindow_IdolBTN" animationId..editor..ref="assetType@animationClip; raw@true" nodeRefId="Current" />
+			</controllers>
+			<inspectorPosition x="219.0" y="141.0" />
+			<transitions targetStateName="Pressed" />
+		</ptr>
+	</states>
+	<states type="state">
+		<ptr looped="true" name="Pressed">
+			<controllers type="objectAnimationController">
+				<ptr animationId="newWindow_PressedBTN" animationId..editor..ref="assetType@animationClip; raw@true" nodeRefId="Current" />
+			</controllers>
+			<inspectorPosition x="219.0" y="258.0" />
+			<transitions targetStateName="Idol" />
+		</ptr>
+	</states>
+</asset>
